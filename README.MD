@@ -5,7 +5,7 @@ A working end to end demo to show how we can pull data files from somewhere on t
 This project is written in python and makes use of Google's custom python libraries for interacting with their API. You'll also need a Google Cloud account, you can sign up for free and get USD 300 credit just for trying it out. Nice eh?
 
 
-## Running the project
+## Running the awesome project
 
 Clone the repo. We need google's custom API libraries for python (I'm running 2.7).
 
